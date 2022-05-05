@@ -1,0 +1,9 @@
+[gd_scene format=2]
+
+[node name="Button" type="Button"]
+margin_right = 439.0
+margin_bottom = 196.0
+
+[node name="Label" type="Label" parent="."]
+margin_right = 126.0
+margin_bottom = 124.0
